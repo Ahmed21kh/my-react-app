@@ -12,7 +12,7 @@ function HeaderComponent() {
   return (
     <header className="w-full shadow-md">
       <div className="bg-linear-to-r from-[#594D1C] to-[#BEA036] text-white text-sm mt-2">
-        <div className=" mx-auto flex flex-wrap items-center justify-between gap-3 py-3 px-10">
+        <div className=" mx-auto flex flex-wrap items-center justify-between max-md:justify-center gap-3 py-3 px-10">
           <div className="flex items-center gap-2">
             <img src={phone} alt="phone" className="w-4 h-4" />
             <img src={whatsapp} alt="whatsapp" className="w-4 h-4" />

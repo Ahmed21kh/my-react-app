@@ -3,7 +3,7 @@ import vector2 from "../images/Vector2.png"
 function HerroSection() {
   return (
     <section
-      className="bg-[url(images/home_bg.jpg)] bg-center bg-cover bg-no-repeat h-screen relative text-white "
+      className="bg-[url(images/Home_bg.jpg)] bg-center bg-cover bg-no-repeat h-screen relative text-white "
       id="home"
     >
       <div className="absolute inset-0 bg-[#656b66b7]" />
